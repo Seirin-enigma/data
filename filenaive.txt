@@ -1,0 +1,6 @@
+@relation 'weather.symbolic-weka.filters.unsupervised.attribute.Remove-R1,4'
+@attribute temperature {hot,mild,cool}
+@attribute humidity {high,normal}
+@attribute play {yes,no}
+@data
+cool,high,?
